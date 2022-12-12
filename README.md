@@ -1,5 +1,5 @@
 Author: Julian Yan  
-Date: 5/1/2019 
+Date: 5/1/2019  
 Title: Image Editor  
 Summary: This program allows the editing of a grayscale image by implementing a stack.
 
